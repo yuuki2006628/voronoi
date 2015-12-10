@@ -8,7 +8,7 @@ http://yukiokamura.tokyo/playground/#voronoi
 
 ---
 
-this aniamtion based  
+this aniamtion based   
 https://github.com/gorhill/Javascript-Voronoi  
 
 ---
